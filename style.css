@@ -9,10 +9,10 @@ body {
 
 .NavBar {
     background-color: #F55A5A;
-    height: 55px;
+    min-height: 55px;
+    max-height: 165px;
     justify-content: center;
     display: flex;   
-
     margin-bottom: 50px;
 }
 
