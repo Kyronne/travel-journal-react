@@ -23,7 +23,7 @@ body {
 }
 
 .NavText{
-    font-size: 14.46px;
+    font-size: 8vw;
     color: white;
     text-align: center;    
 }
@@ -61,7 +61,7 @@ body {
     margin-bottom: 0;
     margin-top: 5;
     margin-left: 19px;
-    font-size: 10.24px;
+    font-size: 8vw;
     font-weight: 400;
     
 }
@@ -80,24 +80,24 @@ body {
     padding-top: 14px;
     margin-left: 10px;
     align-items: center;
-    font-size: 10.24px;
+    font-size: 8vw;
 }
 
 .CardDes {
     inline-size: 326px;
     overflow-wrap: break-word;
-    font-size: 10.24px;
+    font-size: 8vw;
     font-weight: 400;
     line-height: 150%;
 }
 
 .CardTravel {
-    font-size: 10.24px;
+    font-size: 10vw;
     font-weight: 700;
     
 }
 
 .CardPlace {
-    font-size: 25px;
+    font-size: 12vw;
     margin-top: -5px;
 }
