@@ -12,6 +12,7 @@ body {
     height: 55px;
     justify-content: center;
     display: flex;   
+
     margin-bottom: 50px;
 }
 
@@ -39,8 +40,10 @@ body {
 
 
 .CardImage {
-    width: 125px;
-    height: 168px;
+    min-width: 125px;
+    min-height: 168px;
+    max-width: 375px;
+    max-height: 504px;
     border-radius: 5px;
     
 }
