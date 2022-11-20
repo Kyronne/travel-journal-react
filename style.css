@@ -42,7 +42,7 @@ body {
 .CardImage {
     min-width: 125px;
     min-height: 168px;
-    max-width: 375px;
+    max-width: 336px;
     max-height: 504px;
     border-radius: 5px;
     
